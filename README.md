@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Acinolynx
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning C# language, and how to make a game from scratch.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to make a game from scratch.
 - 📫 How to reach me : kuzumarentaro@gmail.com
 
 <!---
