@@ -1,5 +1,5 @@
 # 👋 Hey! I'm Acinolynx!
-### <br>🎮 Game Developer | 🎨 Graphic Designer | 📷 Photographer<br><br>I build small games, create graphic content, and take photos for fun or feels.  <br>Currently exploring game development and web-based projects.<br><br>📌 Always learning, always creating.
+### 🎮 Game Developer | 🎨 Graphic Designer | 📷 Photographer<br><br>I build small games, create graphic content, and take photos for fun or feels.  <br>Currently exploring game development and web-based projects.<br><br>📌 Always learning, always creating.
 
 <!--
 ## 🌐 Socials
